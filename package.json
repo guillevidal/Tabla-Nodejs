@@ -1,0 +1,14 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Tabla de multiplicar con arhivo de texto ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guillermo Gonzalez Vidal",
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.2.1"
+  }
+}
