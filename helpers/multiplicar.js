@@ -12,7 +12,7 @@ const crearArchivo = async (base = 5, listar = false, hasta = 10) => {
       console.log("====================");
       console.log(salida);
     }
-
+    // ejemplo sin writeFileSync
     //   fs.writeFile("tabla-5.txt", salida, (err) => {
     //     if (err) throw err;
     //     console.log("archivo creado");
